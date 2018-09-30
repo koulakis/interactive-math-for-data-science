@@ -9,15 +9,14 @@ The goal is to present mathematical fields related to data science in an interac
 - **Interactivity:** One step beyond visualization is interactivity. Visualization helps getting a static feeling for entities, while interaction allows learing how objects behave during change.
 - **Purpose:** Understand why different entities were introduced and what problems they solve. Having a purpose gives value to mathematical concepts and makes them interesting.
 
-## Setup
+## Setup - for Linux or macOS
 - Locally
     - Install jupyter notebook. A simple way to do that is by installing [anaconda](https://www.anaconda.com/download/#linux).
-    - Install the following python packages: ... A example of doing this with pip: pip install ...
     - Run jupyter on the directory of the project.
     
 - In a docker container:
-    - Build a docker image using the dockerfile.
-    - Launch a container with the image and open `localhost:8899` on a browser.
+    - Build a docker image running `./build_docker_image.sh`.
+    - Launch a container with the image running `./run_docker_container.sh`.
 
 ## Contents
 1. Liner Algebra
