@@ -9,7 +9,7 @@ The goal is to present mathematical fields related to data science in an interac
 - **Interactivity:** One step beyond visualization is interactivity. Visualization helps getting a static feeling for entities, while interaction allows learing how objects behave during change.
 - **Purpose:** Understand why different entities were introduced and what problems they solve. Having a purpose gives value to mathematical concepts and makes them interesting.
 
-## Setup - for Linux or macOS
+## Setup - for Linux or MacOS
 - Locally
     - Install jupyter notebook. A simple way to do that is by installing [anaconda](https://www.anaconda.com/download/#linux).
     - Run jupyter on the directory of the project.
