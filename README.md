@@ -24,7 +24,7 @@ The goal is to present mathematical fields related to data science in an interac
     1. [Linear transformations and matrices](linear_algebra/part_2__linear_transformations_and_matrices.ipynb)
     1. [Popular operations on transformations](linear_algebra/part_3__popular_operations_on_transformations.ipynb)
     1. [Decompositions of transformations](linear_algebra/part_4_decompositions_of_trasformations.ipynb)
-1. Tensor Algebra
+1. Tensor Algebra (TBA)
 
 ## License
 [MIT License](https://github.com/koulakis/interactive-math-for-data-science/blob/master/LICENSE)
